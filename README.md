@@ -39,6 +39,7 @@ response = {
     ranking: 0.2
   }
 }
+``
 
 ### Validators
 
