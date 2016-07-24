@@ -19,6 +19,7 @@ response = {
   email: 'alladin@aghraba.ar'
   password: 'yasmine',
 }
+```
 
 ### Widgets
 
@@ -39,7 +40,7 @@ response = {
     ranking: 0.2
   }
 }
-``
+```
 
 ### Validators
 
